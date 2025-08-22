@@ -2,7 +2,7 @@
 ### Graduate Student | Data Analytics | Cybersecurity | Software Engineering
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Results-driven+Computer+Science+Grad+Student;Passionate+about+Data+Analytics+%26+Visualization;Exploring+Cybersecurity+%26+AI;Open+to+Internship+%26+Full-time+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Focused+on+Data+Analytics+%26+Cybersecurity;Experienced+in+Software+Development+%26+Visualization;Actively+Seeking+Internship+%26+Full-time+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ## 🌟 About Me  
 
 - 🎓 **Master’s in Computer Science** at **University of North Texas** (Expected 2025)  
-- 🔍 Passionate about **Data Analytics, Cybersecurity, and Process Optimization**  
-- 💡 Skilled in **Python, SQL, Java, JavaScript, React, MySQL, Power BI, Excel**  
-- 📊 Experienced in **data visualization, reporting automation, and backend integration**  
-- 🤝 Strong background in **team collaboration, Agile/Scrum, and leadership roles**  
+- 🔍 Strong interest in **data analytics, cybersecurity, and software development**  
+- 💡 Proficient in **Python, SQL, Java, JavaScript, React, MySQL, Power BI, Excel**  
+- 📊 Experienced in **data visualization, process automation, and backend integration**  
+- 🤝 Effective in **team collaboration, Agile/Scrum, and cross-functional projects**  
 
 ---
 
@@ -40,13 +40,13 @@
 ## 📂 Projects  
 
 - **Alumni Portal** 🏫  
-  Built a **MySQL-backed** portal for alumni event management and communication. Improved event participation tracking accuracy by **40%**.  
+  Developed a **MySQL-backed** portal for alumni event management and communication. Improved participation tracking accuracy by **40%**.  
 
 - **Home Rebuilding System** 🏡  
-  Centralized nonprofit operations platform for volunteers, sponsors, and donors. Reduced manual effort by **35%** using automated notifications.  
+  Built a centralized nonprofit operations platform for volunteers, sponsors, and donors. Reduced manual effort by **35%** with automated workflows.  
 
 - **Brain Chips – A Novel Vision** 🧠  
-  Researched **Brain-Computer Interfaces (BCI)**, exploring applications for paralyzed individuals, risks, and potential future uses.  
+  Conducted research on **Brain-Computer Interfaces (BCI)**, exploring applications, challenges, and future potential.  
 
 ---
 
@@ -59,26 +59,25 @@
 
 ## 🌍 Leadership & Volunteering  
 
-- Led coordination of **10+ university events** with **200+ attendees**.  
-- Sports Coordinator & Cultural Volunteer Head for **2 years**.  
-- Volunteered at **Aasya Foundation**, supporting food distribution & community programs.  
+- Coordinated **10+ university events** attended by over **200 participants**.  
+- Served as **Sports Coordinator and Cultural Volunteer Head** for 2 years.  
+- Volunteered at **Aasya Foundation**, supporting community outreach programs.  
+
+---
+
+## 🎓 Graduation  
+
+<p align="center">
+  <img src="YOUR-GRADUATION-PHOTO-LINK" alt="Graduation Photo" width="400"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="streak" height="160"/>
-</p>
-
----
-
-## 🎉 Fun Extras  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=VolluruAkshitha&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolluruAkshitha&theme=radical" alt="streak" height="160"/>
 </p>
 
 ---
