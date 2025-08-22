@@ -68,7 +68,7 @@
 ## 🎓 Graduation  
 
 <p align="center">
-  <img src="YOUR-GRADUATION-PHOTO-LINK" alt="Graduation Photo" width="400"/>
+  <img src="https://github.com/LeelaKrishna-R/AkshithaVolluru/blob/main/IMG_4484.JPG" alt="Graduation Photo" width="400"/>
 </p>
 
 ---
